@@ -1,2 +1,2 @@
 # 217854
-druga linia w pliku A
+linia w pliku A
