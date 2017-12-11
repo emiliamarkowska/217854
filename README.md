@@ -2,4 +2,4 @@
 linia w pliku A
 linia w pliku B
 zmiany zmiany zmiany
-a b c d
+zmiany1 zmiany1 zmiany1
